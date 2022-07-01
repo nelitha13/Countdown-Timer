@@ -25,7 +25,10 @@ h1 {
     font-family: "Lobster";
 }
 
-
+.row-container {
+    display: flex;
+    flex-direction: row;
+}
 .countdown-container {
 
 }
